@@ -2,13 +2,13 @@
     "smtp": {
         "server": "smtp.gmail.com",
         "port": 587,
-        "username": "nreply.dl@gmail.com",
-        "password": "bvcc xyth lonk eyxj",
+        "username": "noreply@example.com",
+        "password": "**** **** **** ****",
         "use_tls": true
     },
     "email_settings": {
-        "from_name": "DomLabs",
-        "reply_to": "nreply.dl@gmail.com",
+        "from_name": "Your Company",
+        "reply_to": "noreply@example.com",
         "max_emails_per_batch": 50,
         "delay_between_emails": 1
     },
@@ -16,3 +16,4 @@
         "file": "customers.db"
     }
 }
+
