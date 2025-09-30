@@ -1,0 +1,102 @@
+2025-09-30 13:55:30,482 - INFO - Database setup completed
+2025-09-30 13:55:30,556 - INFO - Email template created: welcome_email
+2025-09-30 13:55:30,641 - INFO - Email template created: newsletter
+2025-09-30 13:55:30,726 - INFO - Email template created: promotional_offer
+2025-09-30 13:55:30,811 - INFO - Email template created: follow_up
+2025-09-30 13:55:30,815 - INFO - Database setup completed
+2025-09-30 13:55:30,907 - INFO - Customer added: john.doe@example.com
+2025-09-30 13:55:30,992 - INFO - Customer added: jane.smith@example.com
+2025-09-30 13:55:31,077 - INFO - Customer added: bob.johnson@example.com
+2025-09-30 13:55:31,162 - INFO - Customer added: alice.brown@example.com
+2025-09-30 13:55:31,247 - INFO - Customer added: charlie.wilson@example.com
+2025-09-30 13:55:31,332 - INFO - Customer added: diana.davis@example.com
+2025-09-30 13:55:31,417 - INFO - Customer added: frank.miller@example.com
+2025-09-30 13:55:31,502 - INFO - Customer added: grace.garcia@example.com
+2025-09-30 13:55:31,587 - INFO - Customer added: henry.rodriguez@example.com
+2025-09-30 13:55:31,672 - INFO - Customer added: ivy.martinez@example.com
+2025-09-30 13:55:31,673 - INFO - Imported 10 customers from CSV
+2025-09-30 13:55:42,166 - INFO - Database setup completed
+2025-09-30 13:58:35,291 - INFO - Email template created: DOMLABS
+2025-09-30 13:59:49,481 - INFO - Customer added: dddnick25.dev@gmail.com
+2025-09-30 14:00:26,128 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:02:28,273 - INFO - Email sent successfully to john.doe@example.com
+2025-09-30 14:02:32,795 - INFO - Email sent successfully to jane.smith@example.com
+2025-09-30 14:02:36,968 - INFO - Email sent successfully to bob.johnson@example.com
+2025-09-30 14:02:41,124 - INFO - Email sent successfully to alice.brown@example.com
+2025-09-30 14:02:45,232 - INFO - Email sent successfully to charlie.wilson@example.com
+2025-09-30 14:02:49,216 - INFO - Email sent successfully to diana.davis@example.com
+2025-09-30 14:02:53,394 - INFO - Email sent successfully to frank.miller@example.com
+2025-09-30 14:02:57,422 - INFO - Email sent successfully to grace.garcia@example.com
+2025-09-30 14:03:02,050 - INFO - Email sent successfully to henry.rodriguez@example.com
+2025-09-30 14:03:06,168 - INFO - Email sent successfully to ivy.martinez@example.com
+2025-09-30 14:03:10,194 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:03:11,471 - INFO - Bulk email completed: 11 sent, 0 failed
+2025-09-30 14:04:19,278 - INFO - Database setup completed
+2025-09-30 14:09:34,684 - INFO - Database setup completed
+2025-09-30 14:10:12,645 - INFO - Database setup completed
+2025-09-30 14:10:39,040 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:11:17,105 - INFO - Database setup completed
+2025-09-30 14:11:36,403 - INFO - Database setup completed
+2025-09-30 14:11:41,558 - INFO - Database setup completed
+2025-09-30 14:12:14,961 - INFO - Database setup completed
+2025-09-30 14:12:22,955 - INFO - Campaign '1' scheduled for 2025-09-30T14:12:21.924394
+2025-09-30 14:13:19,975 - INFO - Running scheduled campaign: 1
+2025-09-30 14:13:22,904 - INFO - Email sent successfully to john.doe@example.com
+2025-09-30 14:13:27,015 - INFO - Email sent successfully to jane.smith@example.com
+2025-09-30 14:13:31,087 - INFO - Email sent successfully to bob.johnson@example.com
+2025-09-30 14:13:35,149 - INFO - Email sent successfully to alice.brown@example.com
+2025-09-30 14:13:39,263 - INFO - Email sent successfully to charlie.wilson@example.com
+2025-09-30 14:13:43,280 - INFO - Email sent successfully to diana.davis@example.com
+2025-09-30 14:13:47,279 - INFO - Email sent successfully to frank.miller@example.com
+2025-09-30 14:13:51,570 - INFO - Email sent successfully to grace.garcia@example.com
+2025-09-30 14:13:55,637 - INFO - Email sent successfully to henry.rodriguez@example.com
+2025-09-30 14:13:59,741 - INFO - Email sent successfully to ivy.martinez@example.com
+2025-09-30 14:14:03,878 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:14:05,233 - INFO - Bulk email completed: 11 sent, 0 failed
+2025-09-30 14:22:41,609 - INFO - Database setup completed
+2025-09-30 14:23:01,329 - INFO - Database setup completed
+2025-09-30 14:23:40,682 - INFO - Database setup completed
+2025-09-30 14:24:04,710 - INFO - Email sent successfully to john.doe@example.com
+2025-09-30 14:24:05,984 - INFO - Bulk email completed: 1 sent, 0 failed
+2025-09-30 14:24:23,132 - INFO - Database setup completed
+2025-09-30 14:24:32,968 - INFO - Email sent successfully to john.doe@example.com
+2025-09-30 14:24:37,085 - INFO - Email sent successfully to jane.smith@example.com
+2025-09-30 14:24:40,979 - INFO - Email sent successfully to bob.johnson@example.com
+2025-09-30 14:24:45,014 - INFO - Email sent successfully to alice.brown@example.com
+2025-09-30 14:24:49,068 - INFO - Email sent successfully to charlie.wilson@example.com
+2025-09-30 14:24:53,769 - INFO - Email sent successfully to diana.davis@example.com
+2025-09-30 14:24:57,707 - INFO - Email sent successfully to frank.miller@example.com
+2025-09-30 14:25:01,731 - INFO - Email sent successfully to grace.garcia@example.com
+2025-09-30 14:25:05,689 - INFO - Email sent successfully to henry.rodriguez@example.com
+2025-09-30 14:25:09,749 - INFO - Email sent successfully to ivy.martinez@example.com
+2025-09-30 14:25:13,774 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:25:14,954 - INFO - Bulk email completed: 11 sent, 0 failed
+2025-09-30 14:26:22,284 - INFO - Database setup completed
+2025-09-30 14:28:13,000 - INFO - Database setup completed
+2025-09-30 14:28:23,085 - INFO - Database setup completed
+2025-09-30 14:29:12,652 - INFO - Database setup completed
+2025-09-30 14:29:17,248 - INFO - Customer deleted: 1
+2025-09-30 14:29:22,316 - INFO - Customer deleted: 2
+2025-09-30 14:29:48,238 - INFO - Database setup completed
+2025-09-30 14:29:53,518 - INFO - Customer deleted: 3
+2025-09-30 14:29:57,841 - INFO - Customer deleted: 4
+2025-09-30 14:30:04,228 - INFO - Customer deleted: 7
+2025-09-30 14:30:12,780 - INFO - Customer deleted: 8
+2025-09-30 14:30:18,996 - INFO - Customer deleted: 9
+2025-09-30 14:30:25,146 - INFO - Database setup completed
+2025-09-30 14:30:32,507 - INFO - Customer deleted: 10
+2025-09-30 14:30:49,413 - INFO - Customer deleted: 5
+2025-09-30 14:31:07,723 - INFO - Database setup completed
+2025-09-30 14:31:15,823 - INFO - Customer deleted: 6
+2025-09-30 14:31:37,790 - INFO - Email sent successfully to dddnick25.dev@gmail.com
+2025-09-30 14:31:38,880 - INFO - Bulk email completed: 1 sent, 0 failed
+2025-09-30 14:34:22,621 - INFO - Database setup completed
+2025-09-30 14:34:22,851 - INFO - Email template created: welcome_email
+2025-09-30 14:34:22,925 - INFO - Email template created: newsletter
+2025-09-30 14:34:22,999 - INFO - Email template created: promotional_offer
+2025-09-30 14:34:23,073 - INFO - Email template created: follow_up
+2025-09-30 14:37:21,947 - INFO - Database setup completed
+2025-09-30 14:37:29,600 - INFO - Database vacuum completed
+2025-09-30 14:37:35,056 - INFO - Database integrity check: OK
+2025-09-30 14:37:52,636 - INFO - Database setup completed
+2025-09-30 14:40:38,293 - INFO - Database setup completed

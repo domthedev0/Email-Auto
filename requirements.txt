@@ -1,0 +1,13 @@
+# Email Automation System Requirements
+
+# Scheduling
+schedule==1.2.0
+
+# Additional useful packages (optional)
+python-dotenv==1.0.0  # For environment variable management
+pandas==2.0.3  # For advanced data manipulation
+jinja2==3.1.2  # For advanced email templating
+
+# Optional async provider + queue
+pymail-io
+redis
